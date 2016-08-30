@@ -25,8 +25,8 @@ namespace ReadFromCommandLine
 			Console.WriteLine ("Sabirane s += :" + test + "\n");
 			test = test.Replace (",", ";");
 
-			Console.WriteLine ("Rabota s replace" + test + "\n");
-			Console.WriteLine ("Treti znak" + test.Split (';') [2]);
+			Console.WriteLine ("Rabota s replace " + test + "\n");
+			Console.WriteLine ("Treti znak " + test.Split (';') [2]);
 
 
 
